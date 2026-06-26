@@ -1,0 +1,1044 @@
+{
+  "payload": {
+    "commitGroups": [
+      {
+        "title": "Jul 18, 2025",
+        "commits": [
+          {
+            "oid": "87eacadcd3f978bdeb527f397c7b652435b0476a",
+            "url": "/chromium/chromium/commit/87eacadcd3f978bdeb527f397c7b652435b0476a",
+            "authoredDate": "2025-07-18T17:22:17.000-07:00",
+            "committedDate": "2025-07-18T17:22:17.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.7.18.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I70c9222c91665ac553a3be0c430c6ce123d50920\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6771785\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1489107}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/87eacadcd3f978bdeb527f397c7b652435b0476a\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.7.18.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I70c9222c91665ac553a3be0c430c6ce123d50920\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6771785\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6771785\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1489107}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jul 9, 2025",
+        "commits": [
+          {
+            "oid": "289646c74a50f61700c5455193d066ea5f649b6e",
+            "url": "/chromium/chromium/commit/289646c74a50f61700c5455193d066ea5f649b6e",
+            "authoredDate": "2025-07-09T16:38:26.000-07:00",
+            "committedDate": "2025-07-09T16:38:26.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.7.9.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I70af3caf286c0fba86557d015f74d206510391c0\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6718396\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1484671}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/289646c74a50f61700c5455193d066ea5f649b6e\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.7.9.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I70af3caf286c0fba86557d015f74d206510391c0\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6718396\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6718396\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1484671}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jun 16, 2025",
+        "commits": [
+          {
+            "oid": "34be45609815903e9acba6d26e82644db67d3b4f",
+            "url": "/chromium/chromium/commit/34be45609815903e9acba6d26e82644db67d3b4f",
+            "authoredDate": "2025-06-16T17:46:24.000-07:00",
+            "committedDate": "2025-06-16T17:46:24.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.6.16.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I2cb0c0caf785516fbb08cb59a10c5444daea2e55\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6649247\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1474679}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/34be45609815903e9acba6d26e82644db67d3b4f\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.6.16.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I2cb0c0caf785516fbb08cb59a10c5444daea2e55\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6649247\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6649247\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1474679}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "May 21, 2025",
+        "commits": [
+          {
+            "oid": "cedfdc43d30b694b41fe6912ca90ce26d7f499d3",
+            "url": "/chromium/chromium/commit/cedfdc43d30b694b41fe6912ca90ce26d7f499d3",
+            "authoredDate": "2025-05-21T16:37:24.000-07:00",
+            "committedDate": "2025-05-21T16:37:24.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.5.21.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I1febd29931b101c4c2644fac1611523258b32364\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6575345\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1463794}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/cedfdc43d30b694b41fe6912ca90ce26d7f499d3\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.5.21.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I1febd29931b101c4c2644fac1611523258b32364\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6575345\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6575345\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1463794}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Apr 30, 2025",
+        "commits": [
+          {
+            "oid": "e13e24a0e8f3db6925f733d7472c8450c057b697",
+            "url": "/chromium/chromium/commit/e13e24a0e8f3db6925f733d7472c8450c057b697",
+            "authoredDate": "2025-04-30T16:45:46.000-07:00",
+            "committedDate": "2025-04-30T16:45:46.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.4.30.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I188e51385bc1f839635c9d7ef332302a6c0938df\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6503475\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1454232}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/e13e24a0e8f3db6925f733d7472c8450c057b697\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.4.30.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I188e51385bc1f839635c9d7ef332302a6c0938df\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6503475\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6503475\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1454232}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Apr 23, 2025",
+        "commits": [
+          {
+            "oid": "ce099ed16ac9825e8cc19023ac64303f5d33c944",
+            "url": "/chromium/chromium/commit/ce099ed16ac9825e8cc19023ac64303f5d33c944",
+            "authoredDate": "2025-04-23T16:37:48.000-07:00",
+            "committedDate": "2025-04-23T16:37:48.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.4.23.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ifb5f3469f205b964ac6b8736f609d30880997229\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6485686\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1450867}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/ce099ed16ac9825e8cc19023ac64303f5d33c944\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.4.23.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ifb5f3469f205b964ac6b8736f609d30880997229\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6485686\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6485686\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1450867}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Apr 21, 2025",
+        "commits": [
+          {
+            "oid": "5d9a47a411242f702edc3c43d7a3878d6da97d99",
+            "url": "/chromium/chromium/commit/5d9a47a411242f702edc3c43d7a3878d6da97d99",
+            "authoredDate": "2025-04-21T16:54:39.000-07:00",
+            "committedDate": "2025-04-21T16:54:39.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.4.21.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I65bfbfd8cd660f32428a4a6fb58e00001166a980\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6477424\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1449670}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/5d9a47a411242f702edc3c43d7a3878d6da97d99\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.4.21.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I65bfbfd8cd660f32428a4a6fb58e00001166a980\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6477424\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6477424\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1449670}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Apr 18, 2025",
+        "commits": [
+          {
+            "oid": "8821c470269a6a75830ea5f9413fa9e415325276",
+            "url": "/chromium/chromium/commit/8821c470269a6a75830ea5f9413fa9e415325276",
+            "authoredDate": "2025-04-18T16:45:14.000-07:00",
+            "committedDate": "2025-04-18T16:45:14.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.4.18.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I227d87f83ba30e29fdcc6dc4776b2d87ff1944b5\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6469976\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1449063}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/8821c470269a6a75830ea5f9413fa9e415325276\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.4.18.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I227d87f83ba30e29fdcc6dc4776b2d87ff1944b5\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6469976\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6469976\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1449063}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Apr 9, 2025",
+        "commits": [
+          {
+            "oid": "cf628cf2b24f670c97cec8ead6530c9582dbc7f7",
+            "url": "/chromium/chromium/commit/cf628cf2b24f670c97cec8ead6530c9582dbc7f7",
+            "authoredDate": "2025-04-09T16:40:51.000-07:00",
+            "committedDate": "2025-04-09T16:40:51.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.4.9.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I48e463cc887891a0568364d307b31da0f718b1dc\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6439643\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1445016}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/cf628cf2b24f670c97cec8ead6530c9582dbc7f7\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.4.9.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I48e463cc887891a0568364d307b31da0f718b1dc\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6439643\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6439643\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1445016}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Mar 31, 2025",
+        "commits": [
+          {
+            "oid": "67904c1fa3522f8fd637af3703e7234a8b682645",
+            "url": "/chromium/chromium/commit/67904c1fa3522f8fd637af3703e7234a8b682645",
+            "authoredDate": "2025-03-31T16:41:37.000-07:00",
+            "committedDate": "2025-03-31T16:41:37.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.3.31.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: If2a3f3f2210fd1c4cbe28356158dde6c717caa66\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6419482\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1440629}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/67904c1fa3522f8fd637af3703e7234a8b682645\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.3.31.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: If2a3f3f2210fd1c4cbe28356158dde6c717caa66\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6419482\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6419482\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1440629}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Mar 12, 2025",
+        "commits": [
+          {
+            "oid": "7f0728d7fb8c73d65f8b878e91b4a2ac7e111df1",
+            "url": "/chromium/chromium/commit/7f0728d7fb8c73d65f8b878e91b4a2ac7e111df1",
+            "authoredDate": "2025-03-12T19:12:43.000-07:00",
+            "committedDate": "2025-03-12T19:12:43.000-07:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.3.12.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I9fa5621e56776f691ed6d77cde700933aa15f4c4\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6350454\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1431884}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/7f0728d7fb8c73d65f8b878e91b4a2ac7e111df1\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.3.12.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I9fa5621e56776f691ed6d77cde700933aa15f4c4\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6350454\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6350454\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1431884}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Feb 16, 2025",
+        "commits": [
+          {
+            "oid": "e6b5e032e7beacf3790b3b2c956406feb1441038",
+            "url": "/chromium/chromium/commit/e6b5e032e7beacf3790b3b2c956406feb1441038",
+            "authoredDate": "2025-02-16T20:30:12.000-08:00",
+            "committedDate": "2025-02-16T20:30:12.000-08:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.2.14.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ia12c5f0d55ecbb663164f0ebaea74f30d788449f\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6273027\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1420899}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/e6b5e032e7beacf3790b3b2c956406feb1441038\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.2.14.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ia12c5f0d55ecbb663164f0ebaea74f30d788449f\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6273027\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6273027\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1420899}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jan 31, 2025",
+        "commits": [
+          {
+            "oid": "35942c7f28aa994aea0246358d851be6cd2780b1",
+            "url": "/chromium/chromium/commit/35942c7f28aa994aea0246358d851be6cd2780b1",
+            "authoredDate": "2025-01-31T16:51:23.000-08:00",
+            "committedDate": "2025-01-31T16:51:23.000-08:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.1.31.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I3024a75003a67415a9a5bea2805636bc4f5751b8\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6221497\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1414472}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/35942c7f28aa994aea0246358d851be6cd2780b1\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.1.31.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I3024a75003a67415a9a5bea2805636bc4f5751b8\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6221497\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6221497\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1414472}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jan 29, 2025",
+        "commits": [
+          {
+            "oid": "d06decd9a0f48aefeabd9dd52fdb8f916c42562c",
+            "url": "/chromium/chromium/commit/d06decd9a0f48aefeabd9dd52fdb8f916c42562c",
+            "authoredDate": "2025-01-29T16:32:47.000-08:00",
+            "committedDate": "2025-01-29T16:32:47.000-08:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.1.29.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I5ff60af5a49c22795a644519fc1e881420d75129\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6217179\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1413242}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/d06decd9a0f48aefeabd9dd52fdb8f916c42562c\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.1.29.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I5ff60af5a49c22795a644519fc1e881420d75129\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6217179\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6217179\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1413242}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jan 27, 2025",
+        "commits": [
+          {
+            "oid": "17cbd339ffda5f63e29d7de0f88e4313ae465d2e",
+            "url": "/chromium/chromium/commit/17cbd339ffda5f63e29d7de0f88e4313ae465d2e",
+            "authoredDate": "2025-01-27T16:42:16.000-08:00",
+            "committedDate": "2025-01-27T16:42:16.000-08:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2025.1.27.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Iddab2dcd8f6545046fcec545391ca1e1506b727b\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6204623\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1411984}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/17cbd339ffda5f63e29d7de0f88e4313ae465d2e\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2025.1.27.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Iddab2dcd8f6545046fcec545391ca1e1506b727b\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6204623\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6204623\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1411984}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Dec 13, 2024",
+        "commits": [
+          {
+            "oid": "f92425a440ede83b17e946663117bc121da50907",
+            "url": "/chromium/chromium/commit/f92425a440ede83b17e946663117bc121da50907",
+            "authoredDate": "2024-12-13T16:36:56.000-08:00",
+            "committedDate": "2024-12-13T16:36:56.000-08:00",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.12.13.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I2511f61024d0d061c009a3d0a57da09e9e0c6f73\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6093878\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1396268}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/f92425a440ede83b17e946663117bc121da50907\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.12.13.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I2511f61024d0d061c009a3d0a57da09e9e0c6f73\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6093878\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6093878\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1396268}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Nov 19, 2024",
+        "commits": [
+          {
+            "oid": "8a789cfa4476de75287e9ca33377e83c25b5dc6e",
+            "url": "/chromium/chromium/commit/8a789cfa4476de75287e9ca33377e83c25b5dc6e",
+            "authoredDate": "2024-11-19T06:23:21.000Z",
+            "committedDate": "2024-11-19T06:23:21.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.11.18.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I81e799c4493a151cf117ae8f50ff90b54884d3c3\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6034562\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1384783}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/8a789cfa4476de75287e9ca33377e83c25b5dc6e\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.11.18.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I81e799c4493a151cf117ae8f50ff90b54884d3c3\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6034562\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6034562\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1384783}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Nov 13, 2024",
+        "commits": [
+          {
+            "oid": "febb0e1bfab3c88d1c19be4d7dbf9dc30b6f2285",
+            "url": "/chromium/chromium/commit/febb0e1bfab3c88d1c19be4d7dbf9dc30b6f2285",
+            "authoredDate": "2024-11-14T00:43:30.000Z",
+            "committedDate": "2024-11-14T00:43:30.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.11.13.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I7094782ee6dfe92b8160ce39b8158680611597b3\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6020901\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1382711}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/febb0e1bfab3c88d1c19be4d7dbf9dc30b6f2285\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.11.13.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I7094782ee6dfe92b8160ce39b8158680611597b3\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/6020901\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/6020901\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1382711}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Oct 30, 2024",
+        "commits": [
+          {
+            "oid": "e460defaf5b21de6e89a084d7700e5f9e3c1d637",
+            "url": "/chromium/chromium/commit/e460defaf5b21de6e89a084d7700e5f9e3c1d637",
+            "authoredDate": "2024-10-30T23:43:25.000Z",
+            "committedDate": "2024-10-30T23:43:25.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.10.30.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I0ee120bcc38f882a2262fc24d69a6783ec6b24f3\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5980396\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1375966}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/e460defaf5b21de6e89a084d7700e5f9e3c1d637\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.10.30.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I0ee120bcc38f882a2262fc24d69a6783ec6b24f3\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5980396\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5980396\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1375966}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Oct 23, 2024",
+        "commits": [
+          {
+            "oid": "644462bb326b207851a0c1ed239796ac4c185054",
+            "url": "/chromium/chromium/commit/644462bb326b207851a0c1ed239796ac4c185054",
+            "authoredDate": "2024-10-24T00:37:15.000Z",
+            "committedDate": "2024-10-24T00:37:15.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.10.23.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I07ab8fb1778466d2d4b3176dbd5de53fd5081849\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5957908\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1373063}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/644462bb326b207851a0c1ed239796ac4c185054\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.10.23.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I07ab8fb1778466d2d4b3176dbd5de53fd5081849\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5957908\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5957908\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1373063}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Aug 23, 2024",
+        "commits": [
+          {
+            "oid": "428e3f5aa30cd854ab18cf05e8c61f636940bc2a",
+            "url": "/chromium/chromium/commit/428e3f5aa30cd854ab18cf05e8c61f636940bc2a",
+            "authoredDate": "2024-08-23T23:42:13.000Z",
+            "committedDate": "2024-08-23T23:42:13.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.8.23.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I191ac0a8d903bedc98a985bce22ea12f6bd2750e\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5808120\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1346281}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/428e3f5aa30cd854ab18cf05e8c61f636940bc2a\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.8.23.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I191ac0a8d903bedc98a985bce22ea12f6bd2750e\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5808120\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5808120\u003c/a\u003e\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1346281}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Aug 20, 2024",
+        "commits": [
+          {
+            "oid": "bf0469a226b83003e7ec7c9e02bb895195fac9ea",
+            "url": "/chromium/chromium/commit/bf0469a226b83003e7ec7c9e02bb895195fac9ea",
+            "authoredDate": "2024-08-20T13:20:22.000Z",
+            "committedDate": "2024-08-20T13:20:22.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.8.19.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Icc8d0c187138ef96648c86a97100f3973d13d406\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5796963\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1344109}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/bf0469a226b83003e7ec7c9e02bb895195fac9ea\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.8.19.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Icc8d0c187138ef96648c86a97100f3973d13d406\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5796963\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5796963\u003c/a\u003e\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1344109}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Aug 16, 2024",
+        "commits": [
+          {
+            "oid": "f36ed73974780d59d1aec9baa190d3f813dd8c4d",
+            "url": "/chromium/chromium/commit/f36ed73974780d59d1aec9baa190d3f813dd8c4d",
+            "authoredDate": "2024-08-16T23:41:21.000Z",
+            "committedDate": "2024-08-16T23:41:21.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.8.16.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ife8ec45649d91755dfb2cd32cee075f5505212af\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5792469\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1343103}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/f36ed73974780d59d1aec9baa190d3f813dd8c4d\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.8.16.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ife8ec45649d91755dfb2cd32cee075f5505212af\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5792469\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5792469\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1343103}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Aug 14, 2024",
+        "commits": [
+          {
+            "oid": "176488545b0c6953f9f2fa4e3e0d690d074596ac",
+            "url": "/chromium/chromium/commit/176488545b0c6953f9f2fa4e3e0d690d074596ac",
+            "authoredDate": "2024-08-15T00:01:00.000Z",
+            "committedDate": "2024-08-15T00:01:00.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.8.14.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I489356b8a01465d7c2807f41674dae21a31e7290\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5789403\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1342036}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/176488545b0c6953f9f2fa4e3e0d690d074596ac\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.8.14.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I489356b8a01465d7c2807f41674dae21a31e7290\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5789403\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5789403\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1342036}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Aug 12, 2024",
+        "commits": [
+          {
+            "oid": "704de59c3f1e62bf351542f898c526fe8db3ef33",
+            "url": "/chromium/chromium/commit/704de59c3f1e62bf351542f898c526fe8db3ef33",
+            "authoredDate": "2024-08-12T23:36:51.000Z",
+            "committedDate": "2024-08-12T23:36:51.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.8.12.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I7f9b4eb1168b25a6070ba649459843b44d234162\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5784159\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1340697}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/704de59c3f1e62bf351542f898c526fe8db3ef33\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.8.12.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: I7f9b4eb1168b25a6070ba649459843b44d234162\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5784159\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5784159\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1340697}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Aug 7, 2024",
+        "commits": [
+          {
+            "oid": "dda80e26c158a16a71de792742e34d6a7fc110a6",
+            "url": "/chromium/chromium/commit/dda80e26c158a16a71de792742e34d6a7fc110a6",
+            "authoredDate": "2024-08-07T23:47:25.000Z",
+            "committedDate": "2024-08-07T23:47:25.000Z",
+            "shortMessage": "[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\nComponent to version: 2024.8.7.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ie0443606581749641550bf670e856f1a3ee34459\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5769817\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1338790}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/dda80e26c158a16a71de792742e34d6a7fc110a6\"\u003e[Privacy Sandbox] Update Pre-installed Privacy Sandbox Attestations\u003c/a\u003e",
+            "bodyMessageHtml": "Component to version: 2024.8.7.0\n\nThis CL is set to submit automatically after passing CQ dryrun. In\ncase of failure, please revert this CL.\n\nTBR=chrome-ps-enrollment-core@google.com\n\nChange-Id: Ie0443606581749641550bf670e856f1a3ee34459\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5769817\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5769817\u003c/a\u003e\nCommit-Queue: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nBot-Commit: adservices-enrollment \u0026lt;mdb.adservices-enrollment@google.com\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1338790}",
+            "authors": [
+              {
+                "login": null,
+                "displayName": "adservices-enrollment",
+                "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+                "profileName": null,
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jul 19, 2024",
+        "commits": [
+          {
+            "oid": "9a9003bf6f9b3e8eb902fc485055f991d1e027a1",
+            "url": "/chromium/chromium/commit/9a9003bf6f9b3e8eb902fc485055f991d1e027a1",
+            "authoredDate": "2024-07-19T14:05:18.000Z",
+            "committedDate": "2024-07-19T14:05:18.000Z",
+            "shortMessage": "[Privacy Sandbox] Update pre-installed attestation list to 2024.7.12.0",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update pre-installed attestation list to 2024.7.12.0\n\nLast update for M128 whose branch date is Mon, Jul 22, 2024.\n\nChange-Id: I0f9f27050271c3aa19800094350cec1abb7ef7be\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5725872\nReviewed-by: Garrett Tanzer \u0026lt;gtanzer@chromium.org\u0026gt;\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1330213}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/9a9003bf6f9b3e8eb902fc485055f991d1e027a1\"\u003e[Privacy Sandbox] Update pre-installed attestation list to 2024.7.12.0\u003c/a\u003e",
+            "bodyMessageHtml": "Last update for M128 whose branch date is Mon, Jul 22, 2024.\n\nChange-Id: I0f9f27050271c3aa19800094350cec1abb7ef7be\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5725872\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5725872\u003c/a\u003e\nReviewed-by: Garrett Tanzer \u0026lt;gtanzer@chromium.org\u0026gt;\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1330213}",
+            "authors": [
+              {
+                "login": "xiaochen-z",
+                "displayName": "Xiaochen Zhou",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/17612896?v=4",
+                "path": "/xiaochen-z",
+                "profileName": "Xiaochen Zhou",
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jul 9, 2024",
+        "commits": [
+          {
+            "oid": "7d43ce4ccfb1fb563717142af7a03c1fde6a6902",
+            "url": "/chromium/chromium/commit/7d43ce4ccfb1fb563717142af7a03c1fde6a6902",
+            "authoredDate": "2024-07-09T18:02:01.000Z",
+            "committedDate": "2024-07-09T18:02:01.000Z",
+            "shortMessage": "[Privacy Sandbox] Update pre-installed attestation list to 2024.6.28.0",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Update pre-installed attestation list to 2024.6.28.0\n\nChange-Id: I6731c55c004889b91818daa0635a501a11d0eefc\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5689591\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nReviewed-by: Garrett Tanzer \u0026lt;gtanzer@chromium.org\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1324979}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/7d43ce4ccfb1fb563717142af7a03c1fde6a6902\"\u003e[Privacy Sandbox] Update pre-installed attestation list to 2024.6.28.0\u003c/a\u003e",
+            "bodyMessageHtml": "Change-Id: I6731c55c004889b91818daa0635a501a11d0eefc\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5689591\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5689591\u003c/a\u003e\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nReviewed-by: Garrett Tanzer \u0026lt;gtanzer@chromium.org\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1324979}",
+            "authors": [
+              {
+                "login": "xiaochen-z",
+                "displayName": "Xiaochen Zhou",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/17612896?v=4",
+                "path": "/xiaochen-z",
+                "profileName": "Xiaochen Zhou",
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      },
+      {
+        "title": "Jun 14, 2024",
+        "commits": [
+          {
+            "oid": "3166d7255752527255b729d5dfce04090803bc0d",
+            "url": "/chromium/chromium/commit/3166d7255752527255b729d5dfce04090803bc0d",
+            "authoredDate": "2024-06-14T13:49:53.000Z",
+            "committedDate": "2024-06-14T13:49:53.000Z",
+            "shortMessage": "[Privacy Sandbox] Add Privacy Sandbox attestation list preload for macOS",
+            "shortMessageMarkdown": null,
+            "shortMessageMarkdownLink": "\u003ca data-pjax=\"true\" title=\"[Privacy Sandbox] Add Privacy Sandbox attestation list preload for macOS\n\nAdd Privacy Sandbox attestation list and manifest file. This allows\ncomponent updater to read the pre-installed attestation list if the\nnewest version has not been downloaded yet.\n\nA histogram is added to record when an attestation check takes place,\nwhether the attestation map is parsed from a bundled or a downloaded\nattestation file.\n\nBug: 40942169\nChange-Id: I52bf14b56e808454c946c6645aae51ea2372fd98\nReviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/5604851\nReviewed-by: Ben Kelly \u0026lt;wanderview@chromium.org\u0026gt;\nReviewed-by: Joshua Pawlicki \u0026lt;waffles@chromium.org\u0026gt;\nReviewed-by: Mark Mentovai \u0026lt;mark@chromium.org\u0026gt;\nReviewed-by: Lei Zhang \u0026lt;thestig@chromium.org\u0026gt;\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1315191}\" class=\"color-fg-default\" href=\"/chromium/chromium/commit/3166d7255752527255b729d5dfce04090803bc0d\"\u003e[Privacy Sandbox] Add Privacy Sandbox attestation list preload for macOS\u003c/a\u003e",
+            "bodyMessageHtml": "Add Privacy Sandbox attestation list and manifest file. This allows\ncomponent updater to read the pre-installed attestation list if the\nnewest version has not been downloaded yet.\n\nA histogram is added to record when an attestation check takes place,\nwhether the attestation map is parsed from a bundled or a downloaded\nattestation file.\n\nBug: 40942169\nChange-Id: I52bf14b56e808454c946c6645aae51ea2372fd98\nReviewed-on: \u003ca href=\"https://chromium-review.googlesource.com/c/chromium/src/+/5604851\" rel=\"nofollow\"\u003ehttps://chromium-review.googlesource.com/c/chromium/src/+/5604851\u003c/a\u003e\nReviewed-by: Ben Kelly \u0026lt;wanderview@chromium.org\u0026gt;\nReviewed-by: Joshua Pawlicki \u0026lt;waffles@chromium.org\u0026gt;\nReviewed-by: Mark Mentovai \u0026lt;mark@chromium.org\u0026gt;\nReviewed-by: Lei Zhang \u0026lt;thestig@chromium.org\u0026gt;\nCommit-Queue: Xiaochen Zhou \u0026lt;xiaochenzh@chromium.org\u0026gt;\nCr-Commit-Position: refs/heads/main@{#1315191}",
+            "authors": [
+              {
+                "login": "xiaochen-z",
+                "displayName": "Xiaochen Zhou",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/17612896?v=4",
+                "path": "/xiaochen-z",
+                "profileName": "Xiaochen Zhou",
+                "isGitHub": false
+              }
+            ],
+            "committerAttribution": true,
+            "committer": {
+              "login": null,
+              "displayName": "Chromium LUCI CQ",
+              "avatarUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png",
+              "profileName": null,
+              "isGitHub": false
+            },
+            "pusher": null,
+            "pushedDate": null
+          }
+        ]
+      }
+    ],
+    "currentCommit": {
+      "oid": "88547700c7111c05932d805609d48be9e92a4f87"
+    },
+    "filters": {
+      "since": null,
+      "until": null,
+      "author": null,
+      "newPath": null,
+      "originalBranch": null,
+      "currentBlobPath": "components/privacy_sandbox/privacy_sandbox_attestations/preload/privacy-sandbox-attestations.dat",
+      "pagination": {
+        "startCursor": "88547700c7111c05932d805609d48be9e92a4f87 0",
+        "endCursor": "88547700c7111c05932d805609d48be9e92a4f87 28",
+        "hasNextPage": false,
+        "hasPreviousPage": false
+      }
+    },
+    "metadata": {
+      "browsingRenameHistory": null,
+      "showProfileHelp": false,
+      "deferredDataUrl": "/chromium/chromium/commits/deferred_commit_data/main?original_branch=main\u0026path=components%2Fprivacy_sandbox%2Fprivacy_sandbox_attestations%2Fpreload%2Fprivacy-sandbox-attestations.dat",
+      "deferredContributorUrl": "/chromium/chromium/commits/deferred_commit_contributors",
+      "softNavToCommit": true
+    },
+    "repo": {
+      "id": 120360765,
+      "defaultBranch": "main",
+      "name": "chromium",
+      "ownerLogin": "chromium",
+      "currentUserCanPush": false,
+      "isFork": false,
+      "isEmpty": false,
+      "createdAt": "2018-02-05T14:55:32.000-06:00",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/30044?v=4",
+      "public": true,
+      "private": false,
+      "isOrgOwned": true
+    },
+    "refInfo": {
+      "name": "main",
+      "listCacheKey": "v0:1770959579.0",
+      "refType": "branch",
+      "currentOid": "88547700c7111c05932d805609d48be9e92a4f87"
+    },
+    "timedOutMessage": ""
+  },
+  "title": "History for components/privacy_sandbox/privacy_sandbox_attestations/preload/privacy-sandbox-attestations.dat - chromium/chromium",
+  "appPayload": {
+    "helpUrl": "https://docs.github.com"
+  }
+}

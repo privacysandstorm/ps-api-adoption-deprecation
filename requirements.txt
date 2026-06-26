@@ -1,0 +1,8 @@
+numpy>=2.3.2
+pandas>=2.3.1
+pyarrow>=21.0.0
+protobuf
+seaborn>=0.13.2
+requests
+glasbey
+upsetplot @ git+https://github.com/NirOfir/UpSetPlot/@fix-chainedassignment

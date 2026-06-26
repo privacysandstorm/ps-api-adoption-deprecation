@@ -1,0 +1,1092 @@
+{
+  "apis": [
+    {
+      "name": "CHIPS",
+      "testing": "2022-03-29",
+      "shipping": "2023-05-30",
+      "deprecation": null,
+      "explainer": [
+        "PrivacycgCHIPS2021"
+      ],
+      "category": "Strengthen cross-site privacy boundaries",
+      "use-case": "Opt-in partitioned cookies",
+      "measurement-work": [
+        "beuginWebAlmanacCookies2024",
+        "beuginWebAlmanacCookies2026",
+        "zollnerFirstLookCookies2025a"
+      ],
+      "other-work": [],
+      "JS": [],
+      "HTTP": [
+        "Set-Cookie: Secure; Partitioned;"
+      ],
+      "permission": [],
+      "kFeatures": [
+        {
+          "name": "kPartitionedCookies",
+          "id": 4177
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "FedCM",
+      "testing": "2022-06-21",
+      "shipping": "2022-11-29",
+      "deprecation": null,
+      "explainer": [
+        "W3cfedidFedCM2020"
+      ],
+      "category": "Strengthen cross-site privacy boundaries",
+      "use-case": "Single Sign-On login",
+      "measurement-work": [],
+      "other-work": [
+        "westersSingleSignOnPrivacy2024"
+      ],
+      "JS": [
+        "navigator.credentials.get",
+        "IdentityCredential.disconnect",
+        "IdentityProvider.close",
+        "IdentityProvider.getUserInfo",
+        "navigator.login.setStatus"
+      ],
+      "HTTP": [
+        "Set-Login"
+      ],
+      "permission": [
+        "identity-credentials-get"
+      ],
+      "kFeatures": [
+        {
+          "name": "kFedCm",
+          "id": 4166
+        },
+        {
+          "name": "kFedCmDisconnect",
+          "id": 4224
+        },
+        {
+          "name": "kOBSOLETE_FedCmLogout",
+          "id": 4225
+        },
+        {
+          "name": "kOBSOLETE_FedCmLogoutRps",
+          "id": 4226
+        },
+        {
+          "name": "kFedCmIframe",
+          "id": 4396
+        },
+        {
+          "name": "kFedCmUserInfo",
+          "id": 4426
+        },
+        {
+          "name": "kFedCmAutoReauthn",
+          "id": 4459
+        },
+        {
+          "name": "kFedCmLoginHint",
+          "id": 4579
+        },
+        {
+          "name": "kFedCmRpContext",
+          "id": 4580
+        },
+        {
+          "name": "kOBSOLETE_FedCmIdpSigninStatusApi",
+          "id": 4583
+        },
+        {
+          "name": "kFedCmIdpSigninStatusJsApi",
+          "id": 4584
+        },
+        {
+          "name": "kFedCmDomainHint",
+          "id": 4755
+        },
+        {
+          "name": "kFedCmButtonMode",
+          "id": 4920
+        },
+        {
+          "name": "kFedCmContinueOnResponse",
+          "id": 4955
+        },
+        {
+          "name": "kFedCmMultipleIdentityProviders",
+          "id": 4956
+        },
+        {
+          "name": "kFedCmWithStorageAccessAPI",
+          "id": 4957
+        },
+        {
+          "name": "kFedCmErrorCodeAttribute",
+          "id": 5710
+        },
+        {
+          "name": "kFedCmErrorErrorAttribute",
+          "id": 5711
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 2,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "Fenced Frames",
+      "testing": "2022-05-24",
+      "shipping": "2023-07-18",
+      "deprecation": null,
+      "explainer": [
+        "WICGFencedframe2020"
+      ],
+      "category": "Strengthen cross-site privacy boundaries",
+      "use-case": "Isolated iframes",
+      "measurement-work": [],
+      "other-work": [],
+      "JS": [
+        "document.createElement(\"fencedframe\")",
+        "window.Fence.getNestedConfigs",
+        "window.Fence.reportEvent",
+        "window.FencedFrameConfig.setSharedStorageContext",
+        "window.Fence.setReportEventDataForAutomaticBeacons"
+      ],
+      "HTTP": [
+        "Sec-Fetch-Dest: fencedframe",
+        "Supports-Loading-Mode: fenced-frame"
+      ],
+      "permission": [],
+      "kFeatures": [
+        {
+          "name": "kHTMLFencedFrameElement",
+          "id": 3890
+        },
+        {
+          "name": "kFencedFrameConfigAttribute",
+          "id": 4477
+        },
+        {
+          "name": "kAttributionFencedFrameReportingBeacon",
+          "id": 4496
+        },
+        {
+          "name": "kSandboxViaFencedFrame",
+          "id": 4541
+        },
+        {
+          "name": "kFencedFrameCanLoadOpaqueURL",
+          "id": 5072
+        },
+        {
+          "name": "kFencedFrameDisableUntrustedNetwork",
+          "id": 5378
+        },
+        {
+          "name": "kFencedFrameNotifyEvent",
+          "id": 5379
+        },
+        {
+          "name": "kSharedStorageGetInFencedFrame",
+          "id": 5380
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 2,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "FLoC",
+      "testing": "",
+      "shipping": "2021-03-02",
+      "deprecation": "2021-08-31",
+      "explainer": [
+        "WICGFloc2019"
+      ],
+      "category": "Show relevant content and ads",
+      "use-case": "Ad targeting",
+      "measurement-work": [
+        "vekariaWebAlmanacPrivacy2024"
+      ],
+      "other-work": [
+        "ravichandranEvaluationCohortAlgorithms2020",
+        "epastoClusteringPrivateInterestbased2021",
+        "rescorlaTechnicalCommentsFLoC2021",
+        "berkePrivacyLimitationsInterestbased2022",
+        "kessibiComplementaryUtilityPrivacy2022",
+        "turatiLocalitySensitiveHashingDoes2023"
+      ],
+      "JS": [
+        "document.interestCohort"
+      ],
+      "HTTP": [],
+      "permission": [
+        "interest-cohort"
+      ],
+      "kFeatures": [
+        {
+          "name": "kOBSOLETE_InterestCohortAPI_interestCohort_Method",
+          "id": 3687
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "Private State Tokens",
+      "testing": "2020-07-27",
+      "shipping": "2023-07-18",
+      "deprecation": null,
+      "explainer": [
+        "WICGTrusttokenapi2019"
+      ],
+      "category": "Fight spam and fraud on the Web",
+      "use-case": "Ad fraud prevention",
+      "measurement-work": [],
+      "other-work": [
+        "aliNavigatingMurkyWaters2023"
+      ],
+      "JS": [
+        "document.hasPrivateToken",
+        "document.hasRedemptionRecord",
+        "XMLHttpRequest.setPrivateToken"
+      ],
+      "HTTP": [
+        "Sec-Private-State-Token",
+        "Sec-Private-State-Token-Lifetime",
+        "Sec-Private-State-Token-Crypto-Version",
+        "Sec-Redemption-Record"
+      ],
+      "permission": [
+        "private-state-token-issuance",
+        "private-state-token-redemption",
+        "trust-token-redemption"
+      ],
+      "kFeatures": [
+        {
+          "name": "kV8Document_HasTrustToken_Method",
+          "id": 3202
+        },
+        {
+          "name": "kTrustTokenFetch",
+          "id": 3276
+        },
+        {
+          "name": "kTrustTokenXhr",
+          "id": 3277
+        },
+        {
+          "name": "kTrustTokenIframe",
+          "id": 3278
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 2,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "Storage Access",
+      "testing": null,
+      "shipping": "2023-07-18",
+      "deprecation": null,
+      "explainer": [
+        "StorageAccessAPI2020"
+      ],
+      "category": "Limit cover tracking",
+      "use-case": "Legitimate third-party storage",
+      "measurement-work": [],
+      "other-work": [],
+      "JS": [
+        "document.requestStorageAccess",
+        "document.requestStorageAccessFor",
+        "document.hasStorageAccess",
+        "document.hasUnpartitionedCookieAccess"
+      ],
+      "HTTP": [
+        "Sec-Fetch-Storage-Access",
+        "Activate-Storage-Access"
+      ],
+      "permission": [
+        "storage-access"
+      ],
+      "kFeatures": [
+        {
+          "name": "kStorageAccessAPI_HasStorageAccess_Method",
+          "id": 3310
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_Method",
+          "id": 3311
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccessFor_Method",
+          "id": 4332
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies",
+          "id": 4696
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_all",
+          "id": 4697
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_sessionStorage",
+          "id": 4698
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_sessionStorage_Use",
+          "id": 4699
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_localStorage",
+          "id": 4700
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_localStorage_Use",
+          "id": 4701
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_indexedDB",
+          "id": 4704
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_indexedDB_Use",
+          "id": 4705
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_locks",
+          "id": 4706
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_locks_Use",
+          "id": 4707
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_caches",
+          "id": 4712
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_caches_Use",
+          "id": 4713
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_getDirectory",
+          "id": 4714
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_getDirectory_Use",
+          "id": 4715
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_estimate",
+          "id": 4723
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_estimate_Use",
+          "id": 4724
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_createObjectURL",
+          "id": 4725
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_createObjectURL_Use",
+          "id": 4726
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_revokeObjectURL",
+          "id": 4727
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_revokeObjectURL_Use",
+          "id": 4728
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_BroadcastChannel",
+          "id": 4729
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_BroadcastChannel_Use",
+          "id": 4730
+        },
+        {
+          "name": "kOBSOLETE_ThirdPartyCookieDeprecation_AllowByStorageAccess",
+          "id": 4736
+        },
+        {
+          "name": "kOBSOLETE_ThirdPartyCookieDeprecation_AllowByTopLevelStorageAccess",
+          "id": 4737
+        },
+        {
+          "name": "kStorageAccessAPI_hasUnpartitionedCookieAccess",
+          "id": 4790
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_cookies",
+          "id": 4791
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_SharedWorker",
+          "id": 4857
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccess_BeyondCookies_SharedWorker_Use",
+          "id": 4858
+        },
+        {
+          "name": "kFedCmWithStorageAccessAPI",
+          "id": 4957
+        },
+        {
+          "name": "kOBSOLETE_CrossOriginSameSiteCookieAccessViaStorageAccessAPI",
+          "id": 5459
+        },
+        {
+          "name": "kStorageAccessAPI_requestStorageAccessFor_Method_AsyncSuccess",
+          "id": 5773
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "UA Client Hints",
+      "testing": null,
+      "shipping": "2021-03-02",
+      "deprecation": null,
+      "explainer": [
+        "WICGUaclienthints2018"
+      ],
+      "category": "Limit cover tracking",
+      "use-case": "Access reduced UA features",
+      "measurement-work": [
+        "senolUnveilingImpactUserAgent2023",
+        "wieflingPrivacyMeasureTurned2024",
+        "vekariaWebAlmanacPrivacy2024",
+        "ilgazInvestigatingHighEntropyClient2025"
+      ],
+      "other-work": [
+        "intumwayaseUARadarExploringImpact2023"
+      ],
+      "JS": [
+        "navigator.userAgentData.toJSON",
+        "navigator.userAgentData.getHighEntropyValues"
+      ],
+      "HTTP": [
+        "Accept-CH",
+        "Critical-CH",
+        "Delegate-CH",
+        "Sec-CH-UA*"
+      ],
+      "permission": [
+        "ch-ua",
+        "ch-ua-arch",
+        "ch-ua-bitness",
+        "ch-ua-form-factors",
+        "ch-ua-full-version",
+        "ch-ua-full-version-list",
+        "ch-ua-high-entropy-values",
+        "ch-ua-mobile",
+        "ch-ua-model",
+        "ch-ua-platform",
+        "ch-ua-platform-version",
+        "ch-ua-wow64"
+      ],
+      "kFeatures": [
+        {
+          "name": "kClientHintsUA",
+          "id": 2789
+        },
+        {
+          "name": "kClientHintsUAArch",
+          "id": 2790
+        },
+        {
+          "name": "kClientHintsUAPlatform",
+          "id": 2791
+        },
+        {
+          "name": "kClientHintsUAModel",
+          "id": 2792
+        },
+        {
+          "name": "kClientHintsUAMobile",
+          "id": 3116
+        },
+        {
+          "name": "kClientHintsUAFullVersion",
+          "id": 3189
+        },
+        {
+          "name": "kClientHintsUAPlatformVersion",
+          "id": 3273
+        },
+        {
+          "name": "kClientHintsPrefersColorScheme",
+          "id": 3915
+        },
+        {
+          "name": "kClientHintsUABitness",
+          "id": 3945
+        },
+        {
+          "name": "kOBSOLETE_ClientHintsUAReduced",
+          "id": 3968
+        },
+        {
+          "name": "kClientHintsViewportHeight",
+          "id": 3976
+        },
+        {
+          "name": "kClientHintsDeviceMemory",
+          "id": 4046
+        },
+        {
+          "name": "kClientHintsDPR",
+          "id": 4047
+        },
+        {
+          "name": "kClientHintsResourceWidth",
+          "id": 4048
+        },
+        {
+          "name": "kClientHintsViewportWidth",
+          "id": 4049
+        },
+        {
+          "name": "kClientHintsUAFullVersionList",
+          "id": 4079
+        },
+        {
+          "name": "kOBSOLETE_ClientHintsMetaNameAcceptCH",
+          "id": 4081
+        },
+        {
+          "name": "kOBSOLETE_ClientHintsUAFull",
+          "id": 4149
+        },
+        {
+          "name": "kClientHintsUAWoW64",
+          "id": 4151
+        },
+        {
+          "name": "kOBSOLETE_ClientHintsPartitionedCookies",
+          "id": 4160
+        },
+        {
+          "name": "kClientHintsSaveData",
+          "id": 4206
+        },
+        {
+          "name": "kClientHintsMetaEquivDelegateCH",
+          "id": 4301
+        },
+        {
+          "name": "kClientHintsPrefersReducedMotion",
+          "id": 4364
+        },
+        {
+          "name": "kClientHintsUAFormFactors",
+          "id": 4591
+        },
+        {
+          "name": "kClientHintsPrefersReducedTransparency",
+          "id": 4635
+        },
+        {
+          "name": "kNavigatorUAData_Mobile",
+          "id": 4194
+        },
+        {
+          "name": "kNavigatorUAData_Platform",
+          "id": 4195
+        },
+        {
+          "name": "kNavigatorUAData_Brands",
+          "id": 4196
+        },
+        {
+          "name": "kNavigatorUAData_GetHighEntropyValues",
+          "id": 4520
+        },
+        {
+          "name": "kNavigatorUAData_toJSON",
+          "id": 5581
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "Attribution Reporting",
+      "testing": "2022-04-26",
+      "shipping": "2023-07-18",
+      "deprecation": "2026-01-13",
+      "explainer": [
+        "WICGAttributionreportingapi2019"
+      ],
+      "category": "Measure digital ads",
+      "use-case": "Ad conversion measurement",
+      "measurement-work": [
+        "vekariaWebAlmanacPrivacy2024"
+      ],
+      "other-work": [
+        "langPrivacySandboxAggregation2024",
+        "aksuSummaryReportsOptimization2024",
+        "delaneyDifferentiallyPrivateAd2024",
+        "xiaoClickCompromiseOnline2025"
+      ],
+      "JS": [
+        "XMLHttpRequest.setAttributionReporting",
+        "HTMLAnchorElement.attributionSrc",
+        "HTMLImageElement.attributionSrc",
+        "HTMLScriptElement.attributionSrc"
+      ],
+      "HTTP": [
+        "Attribution-Reporting-Eligible",
+        "Attribution-Reporting-Register-Source",
+        "Attribution-Reporting-Register-Trigger"
+      ],
+      "permission": [
+        "attribution-reporting",
+        "conversion-measurement"
+      ],
+      "kFeatures": [
+        {
+          "name": "kAttributionReportingAPIAll",
+          "id": 3365
+        },
+        {
+          "name": "kAttributionFencedFrameReportingBeacon",
+          "id": 4496
+        },
+        {
+          "name": "kAttributionReportingCrossAppWeb",
+          "id": 4546
+        },
+        {
+          "name": "kOBSOLETE_AttributionReportingUnderscorePrefixedFilterKey",
+          "id": 4658
+        },
+        {
+          "name": "kOBSOLETE_AttributionReportingCrossAppWebSupportHeader",
+          "id": 4793
+        },
+        {
+          "name": "kAttributionReportingXhr",
+          "id": 5718
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "Private Aggregation",
+      "testing": "2022-04-26",
+      "shipping": "2023-07-18",
+      "deprecation": "2026-01-13",
+      "explainer": [
+        "PatcgindividualdraftsPrivateaggregationapi2022"
+      ],
+      "category": "Measure digital ads",
+      "use-case": "Cross-site measurement",
+      "measurement-work": [],
+      "other-work": [],
+      "JS": [
+        "privateAggregation.contributeToHistogram",
+        "privateAggregation.contributeToHistogramOnEvent",
+        "privateAggregation.enableDebugMode"
+      ],
+      "HTTP": [],
+      "permission": [
+        "private-aggregation"
+      ],
+      "kFeatures": [
+        {
+          "name": "kPrivateAggregationApiAll",
+          "id": 4333
+        },
+        {
+          "name": "kPrivateAggregationApiFledge",
+          "id": 4334
+        },
+        {
+          "name": "kPrivateAggregationApiSharedStorage",
+          "id": 4335
+        },
+        {
+          "name": "kPrivateAggregationApiFledgeExtensions",
+          "id": 4487
+        },
+        {
+          "name": "kPrivateAggregationApiEnableDebugMode",
+          "id": 4656
+        },
+        {
+          "name": "kPrivateAggregationApiFilteringIds",
+          "id": 4967
+        },
+        {
+          "name": "kPrivateAggregationApiErrorReporting",
+          "id": 5486
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 2,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "Protected Audience",
+      "testing": "2022-04-26",
+      "shipping": "2023-07-18",
+      "deprecation": "2026-01-13",
+      "explainer": [
+        "WICGTurtledove2020"
+      ],
+      "category": "Show relevant content and ads",
+      "use-case": "Ad retargeting",
+      "measurement-work": [
+        "ruminskiFindingsEarlyFledge2022",
+        "philipsePostThirdPartyCookies2024",
+        "calderonioFledgingWillContinue2024",
+        "vekariaWebAlmanacPrivacy2024",
+        "johnsonUnearthingPrivacyEnhancingAd2024",
+        "johnsonAdventPrivacycentricDigital2024"
+      ],
+      "other-work": [
+        "aliNavigatingMurkyWaters2023",
+        "thomsonProtectedAudiencePrivacy2024",
+        "longEvaluatingGooglesProtected2024"
+      ],
+      "JS": [
+        "navigator.joinAdInterestGroup",
+        "navigator.leaveAdInterestGroup",
+        "navigator.clearOriginJoinedAdInterestGroups",
+        "navigator.runAdAuction",
+        "navigator.adAuctionComponents",
+        "navigator.createAuctionNonce"
+      ],
+      "HTTP": [
+        "Ad-Auction-Allowed",
+        "Ad-Auction-Only",
+        "Ad-Auction-Signals",
+        "Ad-Auction-Additional-Bid",
+        "X-fledge-bidding-signals-format-version",
+        "Data-Version",
+        "Sec-Ad-Auction-Fetch"
+      ],
+      "permission": [
+        "join-ad-interest-group",
+        "run-ad-auction"
+      ],
+      "kFeatures": [
+        {
+          "name": "kFledge",
+          "id": 4188
+        },
+        {
+          "name": "kFledgeAuctionReportBuyers",
+          "id": 4918
+        },
+        {
+          "name": "kFledgeAuctionReportBuyerDebugModeConfig",
+          "id": 4919
+        },
+        {
+          "name": "kProtectedAudienceDirectFromSellerSignals",
+          "id": 5034
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "RWS",
+      "testing": "2021-03-02",
+      "shipping": "2023-07-18",
+      "deprecation": "2026-01-13",
+      "explainer": [
+        "WICGFirstpartysets2019"
+      ],
+      "category": "Strengthen cross-site privacy boundaries",
+      "use-case": "Cross-site relationships",
+      "measurement-work": [
+        "mcquistinFirstLookRelated2024",
+        "beuginWebAlmanacCookies2024",
+        "johnsonUnearthingPrivacyEnhancingAd2024"
+      ],
+      "other-work": [],
+      "JS": [],
+      "HTTP": [],
+      "permission": [
+        "top-level-storage-access"
+      ],
+      "kFeatures": null,
+      "plotOptions": null
+    },
+    {
+      "name": "Shared Storage",
+      "testing": "2022-08-02",
+      "shipping": "2023-07-18",
+      "deprecation": "2026-01-13",
+      "explainer": [
+        "WICGSharedstorage2021"
+      ],
+      "category": "Strengthen cross-site privacy boundaries",
+      "use-case": "Cross-site restricted storage",
+      "measurement-work": [],
+      "other-work": [
+        "nisenoffExploitingSharedStorage2025"
+      ],
+      "JS": [
+        "window.sharedStorage.selectURL",
+        "window.sharedStorage.run",
+        "window.sharedStorage.set",
+        "window.sharedStorage.append",
+        "window.sharedStorage.delete",
+        "window.sharedStorage.clear",
+        "window.sharedStorage.worklet.addModule",
+        "window.sharedStorage.createWorklet",
+        "window.sharedStorage.worklet.run",
+        "window.sharedStorage.worklet.selectURL",
+        "window.sharedStorage.batchUpdate"
+      ],
+      "HTTP": [
+        "Sec-Shared-Storage-Writable",
+        "Sec-Shared-Storage-Data-Origin",
+        "Shared-Storage-Write",
+        "Shared-Storage-Cross-Origin-Worklet-Allowed"
+      ],
+      "permission": [
+        "shared-storage",
+        "shared-storage-select-url"
+      ],
+      "kFeatures": [
+        {
+          "name": "kSharedStorageAPI_SharedStorage_DOMReference",
+          "id": 4263
+        },
+        {
+          "name": "kSharedStorageAPI_AddModule_Method",
+          "id": 4264
+        },
+        {
+          "name": "kSharedStorageAPI_Set_Method",
+          "id": 4265
+        },
+        {
+          "name": "kSharedStorageAPI_Append_Method",
+          "id": 4266
+        },
+        {
+          "name": "kSharedStorageAPI_Delete_Method",
+          "id": 4267
+        },
+        {
+          "name": "kSharedStorageAPI_Clear_Method",
+          "id": 4268
+        },
+        {
+          "name": "kSharedStorageAPI_SelectURL_Method",
+          "id": 4269
+        },
+        {
+          "name": "kSharedStorageAPI_Run_Method",
+          "id": 4270
+        },
+        {
+          "name": "kPrivateAggregationApiSharedStorage",
+          "id": 4335
+        },
+        {
+          "name": "kSharedStorageAPI_Fetch_Attribute",
+          "id": 4637
+        },
+        {
+          "name": "kSharedStorageAPI_Image_Attribute",
+          "id": 4638
+        },
+        {
+          "name": "kSharedStorageAPI_Iframe_Attribute",
+          "id": 4639
+        },
+        {
+          "name": "kSharedStorageAPI_CreateWorklet_Method",
+          "id": 4836
+        },
+        {
+          "name": "kSharedStorageAPI_SelectURLOverallPageloadBudgetInsufficient",
+          "id": 4944
+        },
+        {
+          "name": "kSharedStorageAPI_CreateWorklet_CrossOriginScriptDefaultDataOrigin",
+          "id": 5007
+        },
+        {
+          "name": "kSharedStorageAPI_AddModule_CrossOriginScript",
+          "id": 5028
+        },
+        {
+          "name": "kSharedStorageWriteFromBidderGenerateBid",
+          "id": 5056
+        },
+        {
+          "name": "kSharedStorageWriteFromBidderReportWin",
+          "id": 5057
+        },
+        {
+          "name": "kSharedStorageWriteFromSellerScoreAd",
+          "id": 5058
+        },
+        {
+          "name": "kSharedStorageWriteFromSellerReportResult",
+          "id": 5059
+        },
+        {
+          "name": "kSharedStorageAPI_BatchUpdate_Method",
+          "id": 5210
+        },
+        {
+          "name": "kSharedStorageAPI_SelectURL_Method_CalledWithOneURL",
+          "id": 5365
+        },
+        {
+          "name": "kSharedStorageGetInFencedFrame",
+          "id": 5380
+        },
+        {
+          "name": "kSharedStorageAPIAll",
+          "id": 5731
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 6
+      }
+    },
+    {
+      "name": "Topics",
+      "testing": "2022-04-26",
+      "shipping": "2023-07-18",
+      "deprecation": "2026-01-13",
+      "explainer": [
+        "PatcgindividualdraftsTopics2022a"
+      ],
+      "category": "Show relevant content and ads",
+      "use-case": "Ad targeting",
+      "measurement-work": [
+        "vekariaWebAlmanacPrivacy2024",
+        "johnsonUnearthingPrivacyEnhancingAd2024",
+        "johnsonAdventPrivacycentricDigital2024",
+        "philipsePostThirdPartyCookies2024",
+        "vernaUnderstandingTopicsAPI2025"
+      ],
+      "other-work": [
+        "epastoMeasuresCrosssiteReidentification2022",
+        "careyMeasuringReidentificationRisk2023",
+        "thomsonPrivacyAnalysisGoogles2023",
+        "jhaReIdentificationAttacksTopics2024",
+        "alvimPrivacyUtilityTradeoffTopics2024",
+        "beuginPublicReproducibleAssessmentTopics2024",
+        "beuginInterestDisclosingMechanismsAdvertising2024",
+        "dickDifferentiallyPrivateSynthetic2025"
+      ],
+      "JS": [
+        "document.browsingTopics"
+      ],
+      "HTTP": [
+        "Sec-Browsing-Topics",
+        "Observe-Browsing-Topics"
+      ],
+      "permission": [
+        "browsing-topics"
+      ],
+      "kFeatures": [
+        {
+          "name": "kTopicsAPI_BrowsingTopics_Method",
+          "id": 4182
+        },
+        {
+          "name": "kTopicsAPIFetch",
+          "id": 4460
+        },
+        {
+          "name": "kOBSOLETE_TopicsAPIXhr",
+          "id": 4461
+        },
+        {
+          "name": "kIframeBrowsingTopicsAttribute",
+          "id": 4497
+        },
+        {
+          "name": "kTopicsAPIAll",
+          "id": 5102
+        },
+        {
+          "name": "kTopicsAPIImg",
+          "id": 5240
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    },
+    {
+      "name": "extra",
+      "testing": null,
+      "shipping": null,
+      "deprecation": null,
+      "explainer": [],
+      "category": "extra",
+      "use-case": "Extra entry for edge cases",
+      "measurement-work": [],
+      "other-work": [],
+      "JS": [],
+      "HTTP": [],
+      "permission": [],
+      "kFeatures": [
+        {
+          "name": "kPrivacySandboxAdsAPIs",
+          "id": 4187
+        }
+      ],
+      "plotOptions": {
+        "nColumns": 1,
+        "sizeX": 6,
+        "sizeY": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+figs/
+
+__pycache__/
+
+categories/set_cloudflare_env.sh
+
+data/ha-pages/kfeatures-pages-*.csv
+
+data/attestations/pre-loaded/
+data/attestations/__pycache__/
+data/attestations/privacy_sandbox_attestations_pb2.py
+data/attestations/privacy_sandbox_attestations.proto
+data/attestations/commits.txt
