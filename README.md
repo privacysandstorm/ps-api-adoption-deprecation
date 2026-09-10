@@ -1,10 +1,10 @@
-# Artifact for "Lessons from the Adoption and Deprecation of the Privacy Sandbox Web APIs"
+# Artifact for "Longitudinal Adoption and Deprecation of the Privacy Sandbox Web APIs"
 
-Find more details about our analysis in our paper [Lessons from the Adoption and Deprecation of the Privacy Sandbox Web APIs](https://doi.org/10.48550/arXiv.2606.26390):
+Find more details about our analysis in our paper [Longitudinal Adoption and Deprecation of the Privacy Sandbox Web APIs](https://doi.org/10.48550/arXiv.2606.26390):
 
 ```bibtex
-@misc{beuginLessonsAdoptionDeprecation2026,
-  title = {Lessons from the Adoption and Deprecation of the Privacy Sandbox Web APIs},
+@misc{beuginLongitudinalAdoptionDeprecation2026,
+  title = {Longitudinal Adoption and Deprecation of the Privacy Sandbox Web APIs},
   author = {Yohan Beugin and Paul Barford and Patrick McDaniel},
   month = jun,
   year = {2026},
